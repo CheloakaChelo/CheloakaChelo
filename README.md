@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 João Marcelo Amorim
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Web`**
 
 Me chamo João Marcelo, tenho 22 anos e sou natural de Salvador. Concluí o curso de Ciência da Computação na UNIJORGE.
 
@@ -92,7 +92,7 @@ Me chamo João Marcelo, tenho 22 anos e sou natural de Salvador. Concluí o curs
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CheloakaChelo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=cheloakachelo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
